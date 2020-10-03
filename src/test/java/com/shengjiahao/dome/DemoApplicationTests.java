@@ -20,4 +20,8 @@ class DemoApplicationTests {
         System.out.println("王莲杰测试");
     }
 
+    @Test
+    void context(){
+        System.out.println("ly");
+    }
 }
